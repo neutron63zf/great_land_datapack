@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "www",
+    "www",
+    "www"
+  ],
+  "key": {
+    "w": {
+      "tag": "great_land_recipes:nautilus_tradable"
+    }
+  },
+  "result": {
+    "item": "minecraft:nautilus_shell"
+  }
+}
