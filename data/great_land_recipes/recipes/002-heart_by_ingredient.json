@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "nnn",
+    "nnn",
+    "nnn"
+  ],
+  "key": {
+    "n": {
+      "item": "minecraft:dead_fire_coral"
+    }
+  },
+  "result": {
+    "item": "minecraft:heart_of_the_sea"
+  }
+}
