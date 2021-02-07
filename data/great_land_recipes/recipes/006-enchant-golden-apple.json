@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "H  ",
+    "  G"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:experience_bottle"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

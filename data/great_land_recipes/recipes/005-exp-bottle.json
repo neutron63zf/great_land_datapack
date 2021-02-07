@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#H#",
+    " G "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:conduit"
+    },
+    "H": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "G": {
+      "item": "minecraft:glass_bottle"
+    }
+  },
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 1
+  }
+}

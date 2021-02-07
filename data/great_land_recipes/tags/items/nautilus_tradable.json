@@ -1,9 +1,10 @@
 {
   "values": [
     "minecraft:birch_log",
-    "minecraft:acacia_log",
     "minecraft:oak_log",
     "minecraft:dirt",
-    "minecraft:cobblestone"
+    "minecraft:cobblestone",
+    "minecraft:rotten_flesh",
+    "minecraft:arrow"
   ]
 }
