@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " # ",
-    "H  ",
-    "  G"
+    "#HC",
+    "HGH",
+    "CH#"
   ],
   "key": {
     "#": {
@@ -11,6 +11,9 @@
     },
     "H": {
       "item": "minecraft:heart_of_the_sea"
+    },
+    "C": {
+      "item": "minecraft:conduit"
     },
     "G": {
       "item": "minecraft:golden_apple"

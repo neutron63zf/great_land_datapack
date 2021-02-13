@@ -1,23 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " # ",
-    "SDS",
-    " S "
+    "#H#",
+    "HSH",
+    "#H#"
   ],
   "key": {
     "#": {
+      "item": "minecraft:conduit"
+    },
+    "H": {
       "item": "minecraft:heart_of_the_sea"
     },
     "S": {
       "item": "minecraft:sand"
-    },
-    "D": {
-      "item": "minecraft:dirt"
     }
   },
   "result": {
-    "item": "minecraft:gravel",
+    "item": "minecraft:sponge",
     "count": 1
   }
 }

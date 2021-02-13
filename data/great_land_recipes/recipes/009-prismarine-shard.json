@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " # ",
     "#H#",
-    " G "
+    "HCH",
+    "#H#"
   ],
   "key": {
     "#": {
@@ -12,12 +12,12 @@
     "H": {
       "item": "minecraft:heart_of_the_sea"
     },
-    "G": {
-      "item": "minecraft:glass_bottle"
+    "C": {
+      "item": "minecraft:cobblestone"
     }
   },
   "result": {
-    "item": "minecraft:experience_bottle",
+    "item": "minecraft:prismarine_shard",
     "count": 1
   }
 }
