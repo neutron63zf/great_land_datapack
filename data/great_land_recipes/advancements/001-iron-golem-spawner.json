@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "great_land_recipes:013-iron-golem-spawner"
+      }
+    }
+  },
+  "rewards": {
+    "function": "great_land_recipes:001-iron-golem-spawner"
+  }
+}
