@@ -5,7 +5,7 @@ give @s spawner{display: {Name: '{"text":"Iron Golem Spawner","color":"yellow","
 recipe take @s great_land_recipes:013-iron-golem-spawner
 
 # 元のレシピにより余分なものがクラフトされるので消えてもらう
-clear @s spawner 1
+clear @s chest 1
 
 #進捗消去
 advancement revoke @s only great_land_recipes:001-iron-golem-spawner
