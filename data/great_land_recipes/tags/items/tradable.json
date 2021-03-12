@@ -7,6 +7,8 @@
     "minecraft:rotten_flesh",
     "minecraft:arrow",
     "minecraft:netherrack",
-    "minecraft:stone"
+    "minecraft:stone",
+    "minecraft:bone_meal",
+    "minecraft:smooth_stone"
   ]
 }
