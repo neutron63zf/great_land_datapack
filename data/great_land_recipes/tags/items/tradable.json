@@ -1,6 +1,7 @@
 {
   "values": [
     "minecraft:dirt",
+    "minecraft:grass_block",
     "minecraft:cobblestone",
     "minecraft:rotten_flesh",
     "minecraft:arrow",
@@ -15,6 +16,6 @@
     "minecraft:acacia_log",
     "minecraft:dark_oak_log",
     "minecraft:crimson_stem",
-    "minecraft:crimson_stem"
+    "minecraft:warped_stem"
   ]
 }
