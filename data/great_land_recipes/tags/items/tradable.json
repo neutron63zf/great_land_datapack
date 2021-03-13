@@ -1,7 +1,5 @@
 {
   "values": [
-    "minecraft:birch_log",
-    "minecraft:oak_log",
     "minecraft:dirt",
     "minecraft:cobblestone",
     "minecraft:rotten_flesh",
@@ -9,6 +7,14 @@
     "minecraft:netherrack",
     "minecraft:stone",
     "minecraft:bone_meal",
-    "minecraft:smooth_stone"
+    "minecraft:smooth_stone",
+    "minecraft:oak_log",
+    "minecraft:spruce_log",
+    "minecraft:birch_log",
+    "minecraft:jungle_log",
+    "minecraft:acacia_log",
+    "minecraft:dark_oak_log",
+    "minecraft:crimson_stem",
+    "minecraft:crimson_stem"
   ]
 }
